@@ -16,6 +16,27 @@ Ziel ist es, **gemeinsam neue Denkansätze** zu entwickeln, zu diskutieren und w
 
 **Jede Person ist eingeladen mitzumachen. Ideen, Kritik und Perspektiven sind willkommen!**
 
+
+---
+
+## Wie entsteht eine Idee?
+
+Ideen entstehen oft aus Beobachtungen, Alltagsproblemen, Gesprächen oder durch das Nachdenken über bestehende Herausforderungen. Inspiration kann aus persönlichen Erfahrungen, Medien, Forschung oder dem Austausch mit anderen kommen. Es hilft, Fragen zu stellen wie: Was läuft nicht optimal? Was könnte einfacher, gerechter oder nachhaltiger sein?
+
+---
+
+## Von der Idee zum Dokument
+
+1. Reiche deine Idee als Issue ein und diskutiere sie mit der Community.
+2. Wenn die Idee weiter ausgearbeitet wurde, kann sie als eigene Markdown-Datei im Ordner /ideen dokumentiert werden.
+3. So entsteht eine wachsende Sammlung ausgearbeiteter Vorschläge, die leicht auffindbar und weiter nutzbar sind.
+
+---
+
+## /ideen-Ordner
+
+Im Ordner /ideen werden ausgearbeitete Ideen als Markdown-Dateien gesammelt. Jede Datei beschreibt eine Idee ausführlich und dient als Referenz für die Community.
+
 ---
 
 ## 🧭 Warum dieses Projekt?
